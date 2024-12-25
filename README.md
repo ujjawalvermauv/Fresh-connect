@@ -27,4 +27,8 @@
 
 🔗 **Explore Fresh Connect**: [Live Preview](https://your-ujjawalvermauv.github.io/fresh-connect/)
 
+## 🎥 Implementation Demo
+
+Click the link to watch the implementation demo:  
+[Watch the Demo]("videos\Untitled design.mp4")
 
